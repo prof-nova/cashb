@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.chase.com	TRUE	/	FALSE	1999999999	PC_1_0	locale%3Den_us%7Cpfid%3D%7Csegment%3D%7CAOC%3D%7Cpm%3D%7Capc%3D%7C
+.chase.com	TRUE	/	FALSE	1999999999	dps-pod-id	02EA
+.chase.com	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_8_sn_58D782CD9E434962707F6B46D07E9FCA_perc_100000_ol_0_mul_1_app-3Aa9a1fe053416969f_1_rcs-3Acss_0
+secure.chase.com	TRUE	/	FALSE	1999999999	akaalb_secure_chase_com	~op=secure_chase_com_LB:secure-secure02ea|~rv=81~m=secure-secure02ea:0|~os=90ae4da4469d6bd8de4af73ca8e4badd~id=cf3a6de14809dbdfafea7122f3e24cf4
+.chase.com	TRUE	/	FALSE	1999999999	SameSite	None
+chase.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+

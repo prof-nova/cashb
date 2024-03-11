@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:17:15	139451/139451	---MCZ	200	added ('OK')	text/html	date:Mon,%2011%20Mar%202024%2002:17:35%20GMT	https://secure.chase.com/web/auth/?fromOrigin=https://secure.chase.com	C:/Users/hp/Desktop/califold/chase3/secure.chase.com/web/auth/index259a.html	(from )
+03:17:15	44/44	---M-Z	200	added ('OK')	text/plain	etag:%22a3d6fdc5f92890b03864a4b300512b07:1695066827.312934%22	https://secure.chase.com/robots.txt		(from )
